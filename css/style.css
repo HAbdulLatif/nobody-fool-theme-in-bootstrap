@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Georgia;
+}
+.font_m{
+    font-size: 0.9rem;
+}
+.border_l{
+    border-left: 120px solid #0099FF;
+}
+.height{
+    min-height: 30vh;
+}
+
+.text{
+    font-size: 12px;
+    color: #9A9A9A;
+}
+.text_1{
+    font-size: 16px;
+    color: #9A9A9A;
+}
+.search-color{
+   background-color: #E9E9E9;
+}
+.border_2{
+   border-radius: 8px !important;
+
+}
+.s_color{
+    background-color: #F1F1F1;
+}
+.s_height{
+    min-height: 80vh;
+}
+.border1{
+    border-radius: 8px;
+    line-height: 1.3rem;
+}
+.color_headerline{
+    background-color: #EAEAEA;
+}
+.height-afterline{
+    min-height: 1vh;
+}
+.text_2{
+    font-size: 14px;
+    color: #9A9A9A;
+}
+.s_height_1{
+    min-height: 20vh;
+}
+.side_line{
+    border-left: 10px solid #009AFF;
+}
+.s_color_1{
+    background-color: #E1E1E1;
+}
+.text_3 {
+    color: #333333;
+    font-size: 1.3rem;
+}
+.font_handle{
+    font-size: 2.6rem;
+}
+.font_1{
+    font-size:  1.9rem;
+    color: #E1E1E1;
+}
+.s_height_2{
+    min-height: 70vh;
+}
+.s_color_2{
+    background-color: #1A1A1A;
+}
+text_3{
+    color: #FFFFFF;
+}
+.primary-color{
+    color: #009AFF;
+    text-decoration: none;
+}
+.font_size{
+    font-size: 0.90rem;
+}
+
+/* ############# Footer ######## */
+.symbol{
+    color: #989898;
+    font-size: 0.75rem;
+}
+.read{
+    font-size: 0.85rem;
+    text-decoration: none;
+    color: #009AFF;
+}
+.line-bottom{
+    width: 100%;
+    height: 1px;
+    background-color: #232323;
+}
+.title_text{
+    font-size: 0.875rem;
+    color: #888888;
+}
+.after-title{
+    font-size: 0.625rem;
+    color:#888888 ;
+}
+.paragraph{
+    color:#888888;
+    font-size: 0.80rem;
+}
+.text-color{
+    font-size: 0.75rem;
+    color: #A0A0A0;
+    text-decoration: none;
+}
+.text-color:hover{
+    color: #A0A0A0;
+    
+}
+
+.bg-color{
+    background-color: #222222;
+}
+.f_height{
+    min-height: 8vh;
+}
+.icon{
+    color: #787878;
+}
+.icon:hover{
+    color:#DB4A39 ;
+}
+.t_menu{
+    background-color: #2E2E2E;
+}
+.color_f{
+  color: #666666;  
+  font-size: 0.8125rem;
+}
+.field_color{
+    background-color: #1C1C1C;
+    /* border: n */
+    color: #999999;
+    border-radius: 8px !important;
+}
